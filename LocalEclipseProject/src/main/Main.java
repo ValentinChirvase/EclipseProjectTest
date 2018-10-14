@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("E o clasa, nu face prea multe");
 		System.out.println("Forta e puterea");
 		System.out.println("Si inca o linie");
+		System.out.println("prrraaaa");
 	}
 
 }
